@@ -11,5 +11,8 @@ public class Example {
         return instance == null ? instance = new Example() : instance;
     }
 
+    public void run(){
+        System.out.println("He he");
+    }
 
 }
