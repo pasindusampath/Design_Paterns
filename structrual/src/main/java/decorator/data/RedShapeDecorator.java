@@ -9,7 +9,6 @@ public class RedShapeDecorator extends ShapeDecorate{
     @Override
     public void drow() {
         super.drow();
-        setRed();
         //System.out.println("Within Red Shape Decorator");
     }
 

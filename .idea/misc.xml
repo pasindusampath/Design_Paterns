@@ -6,7 +6,6 @@
       <list>
         <option value="$PROJECT_DIR$/creational/pom.xml" />
         <option value="$PROJECT_DIR$/structrual/pom.xml" />
-        <option value="$PROJECT_DIR$/behavior/pom.xml" />
       </list>
     </option>
   </component>
